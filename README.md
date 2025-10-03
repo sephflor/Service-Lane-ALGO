@@ -1,1 +1,1 @@
-# Service-Lane-ALGO
+# Service-Lane-ALGO.This program determines the largest vehicle that can pass through each segment of a service lane. For each test case, it examines the segment from entry to exit, finds the minimum width in that segment (which limits the vehicle size), and outputs a list of these minimum widths for all test cases.
